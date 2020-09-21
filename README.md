@@ -40,7 +40,7 @@ section{margin-bottom: 300px}
 h2{margin-top: 30px; margin-bottom: 30px; font-size: 2em}
 
 section p{line-height: 1.5}
-section p{text-align: center;}
+section p{text-align: justified;}
 
 footer{height: 200px; font-size: 0.5em}
 
