@@ -75,3 +75,4 @@ body{border:4px solid pind;
 <section>
 
 <h2>1. Reasons</h2>
+<img src="1.jpg">
