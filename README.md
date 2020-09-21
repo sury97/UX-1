@@ -85,3 +85,4 @@ There are also a lot of practical factors that make studying in Korea a great ch
 <section>
 
 <h2>2. When and How to Apply University for foreigners ? </h2>
+<img src="2.html">
