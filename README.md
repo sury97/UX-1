@@ -76,3 +76,12 @@ body{border:4px solid pind;
 
 <h2>1. Reasons</h2>
 <img src="1.jpg">
+<p>During the last ten years, Korea has become one of the most popular destinations for international students studying in Asia. It is attractive, trendy, and has a lot for a newcomer to indulge in and explore. 
+
+There are also a lot of practical factors that make studying in Korea a great choice: living costs are cheaper than in many other developed countries, the tuition fees are reasonable and affordable. With its economic and political upheaval, modernized Korea is famous for its good quality of education and a high standard of health care. It is a safe and secure country with good travel connections to neighboring countries. Trips to China, Japan, and the rest of Asia on weekends or holidays add more perspective to the experience of living and studying in Korea. </p>
+
+</section>
+
+<section>
+
+<h2>2. When and How to Apply University for foreigners ? </h2>
