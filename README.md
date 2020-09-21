@@ -41,15 +41,15 @@ h2{margin-top: px; margin-bottom: 30px; font-size: 2em}
 
 section p{line-height: 1.5}
 
-footer{height: 200px; font-size: 0.5em}
+footer{height: 200px; font-size: 1em}
 
-footer p{text-align: center;}
+footer p{text-align: left;}
 
 p{margin-top: 20px}
 
  
 
-body{border:80px solid pink;
+body{border:150px solid pink;
 
  
 
