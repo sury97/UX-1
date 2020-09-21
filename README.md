@@ -37,7 +37,7 @@ header{margin-bottom: 400px}
 
 section{margin-bottom: 300px}
 
-h2{margin-top: px; margin-bottom: 30px; font-size: 2em}
+h2{margin-top: 30px; margin-bottom: 30px; font-size: 2em}
 
 section p{line-height: 1.5}
 
@@ -49,7 +49,7 @@ p{margin-top: 20px}
 
  
 
-body{border:150px solid pink;
+body{border:80px solid pink;
 
  
 
@@ -220,7 +220,7 @@ With a permit students are allowed to work up to 20 hours per week (30 hours per
 
 <footer><p>
 
-20.09.20.<br> Wint
+20.09.20 <br> Wint
 
 </p>
 
