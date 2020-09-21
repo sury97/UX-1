@@ -49,7 +49,7 @@ p{margin-top: 20px}
 
  
 
-body{border:9px solid pink;
+body{border:30px solid pink;
 
  
 
