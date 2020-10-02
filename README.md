@@ -92,6 +92,13 @@ There are also a lot of practical factors that make studying in Korea a great ch
 Korean Language Program application
 Application Procedures:
 
+ <ul>
+  <li>1. Application submission deadline: 1-3 months prior to the start date</li>
+  <li>2. Application screening</li>
+  <li>3. Tuition fee payment</li>
+</ul>
+
+
 1. Application submission deadline: 1-3 months prior to the start date
 
 2. Application screening
