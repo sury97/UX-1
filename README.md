@@ -96,18 +96,8 @@ Application Procedures:
   <li>1. Application submission deadline: 1-3 months prior to the start date</li>
   <li>2. Application screening</li>
   <li>3. Tuition fee payment</li>
-</ul>
-
-
-1. Application submission deadline: 1-3 months prior to the start date
-
-2. Application screening
-
-3. Tuition fee payment
-
-4. Admission approval
-
-5. Visa application
+  <li>4. Admission approval</li>
+  <li>5. Visa application</li>
 
 Example of Admission documents:
 
@@ -124,7 +114,7 @@ Example of Admission documents:
 6. Proof of Foreign student insurance
 
 7. Application fee
-
+</ul>
 University program application
 Application Procedures:
 
