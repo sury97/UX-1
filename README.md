@@ -98,7 +98,7 @@ Application Procedures:
   <li>3. Tuition fee payment</li>
   <li>4. Admission approval</li>
   <li>5. Visa application</li>
-
+</ul>
 Example of Admission documents:
 
 1. Application form
@@ -114,7 +114,7 @@ Example of Admission documents:
 6. Proof of Foreign student insurance
 
 7. Application fee
-</ul>
+
 University program application
 Application Procedures:
 
